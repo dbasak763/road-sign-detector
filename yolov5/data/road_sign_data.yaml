@@ -1,0 +1,10 @@
+train: ../Road_Sign_Dataset/images/train/
+val: ../Road_Sign_Dataset/images/val/
+
+test: ../Road_Sign_Dataset/images/test/
+
+# Number of classes
+nc: 4
+
+# Class names
+names: ["trafficlight", "stop", "speedlimit", "crosswalk"]
