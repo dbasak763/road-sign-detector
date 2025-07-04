@@ -75,4 +75,3 @@ python detect.py --source ../Road_Sign_Dataset/images/test/ --weights runs/train
 ```
 
 The output images with bounding boxes drawn around the detected road signs will be saved in `runs/detect/yolo_road_det/`.
-
